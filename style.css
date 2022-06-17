@@ -1,0 +1,17 @@
+/**{
+    margin: 10;
+} */
+body {
+    display: flex;
+    justify-content: center;
+  }
+  .container {
+    height: 20em;
+    width: 30em;
+    background-color:salmon;
+    padding-left: 3em;
+  }
+  .container{
+    color: #111;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
